@@ -1,0 +1,2 @@
+# Customer_info_using_file_operation
+standalone project
